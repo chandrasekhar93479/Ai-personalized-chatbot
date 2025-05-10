@@ -1,0 +1,6 @@
+langchain_groq
+langchain_groq
+streamlit
+numpy
+pandas
+langchain
